@@ -2,8 +2,6 @@
 
 # UPI_Transactions-Dashboard
 
-## Recommended Structure and Order
-
 ### 1. Project Title - 💸 **UPI Insights: Transaction Behavior & Channel Analysis Dashboard**  
 An intuitive Power BI dashboard built to explore UPI transaction patterns, device usage, city-wise trends, and customer behavior across banking channels—leveraging slicer sync, bookmarks, and matrix visuals for multi-dimensional insights.
 
