@@ -94,6 +94,5 @@ To deliver an interactive Power BI tool that:
 ---
 
 ### 6. Screenshots / Demos  
-Show what the dashboard looks like.  
 - ![Transaction Overview](https://github.com/sainath-raja/UPI_Transaction_project_pro_3/blob/main/Line_chart.png)  
 - ![Matrix Visual](https://github.com/sainath-raja/UPI_Transaction_project_pro_3/blob/main/Matrix_chart.png)  
